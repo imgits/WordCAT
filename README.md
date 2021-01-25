@@ -2,7 +2,7 @@
 MS Word document Computer Aided Translation (CAT) 
 [Word文档计算机辅助翻译](https://wordcat.cn)
 
-关键词: Office NMT Add-Ins 插件 塔多思 机器翻译  
+关键词: Office Add-Ins TRADOS MT NMT 插件 塔多思 机器翻译  
 
 ## 简介
 
