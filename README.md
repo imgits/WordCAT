@@ -2,6 +2,8 @@
 MS Word document Computer Aided Translation (CAT) 
 [Word文档计算机辅助翻译](https://wordcat.cn)
 
+关键词: Office NMT Add-Ins 插件 塔多思 机器翻译  
+
 ## 简介
 
 WordCAT 是一款 **功能强大、免费共享** 的计算机辅助翻译软件，基于微软Office Word二次开发， 提供英、汉等数十种语言辅助翻译、在线词典等功能。 该插件充分利用Office Word编辑排版功能和谷歌、微软提供的机器翻译服务， 实现多种语言之间的机器翻译和人工翻译，可有效提高文字翻译效率， 是外语文档阅读和文字翻译工作者的得力助手。
